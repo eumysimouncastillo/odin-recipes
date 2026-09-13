@@ -1,0 +1,27 @@
+body {
+    background-color: whitesmoke;
+}
+
+h1 {
+    text-align: center;
+    font-size: 60px;
+}
+
+.container {
+    background-color: white;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.images {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.all-recipes a {
+    text-decoration: none;
+    padding: 3px;
+    background-color: black;
+    color: whitesmoke;
+    border-radius: 8px;
+}
